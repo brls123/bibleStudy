@@ -1,0 +1,259 @@
+﻿[
+  {
+    "id": "cosmic-distance",
+    "title": "The Distance That Made Life Possible",
+    "hook": "What if life depends on not too close, not too far?",
+    "level": 1,
+    "readingTime": 3,
+    "publishedAt": "2026-02-10",
+    "sections": [
+      {
+        "paragraphs": [
+          "If Earth were just a little closer to the Sun, would you still be here?",
+          "Not a dramatic shift. Not a cosmic catastrophe. Just slightly closer.",
+          "Because in the universe, slightly often means the difference between survival and impossibility."
+        ]
+      },
+      {
+        "heading": "Not Too Close, Not Too Far",
+        "paragraphs": [
+          "Mercury lives too close to the Sun, a world of burning extremes.",
+          "Uranus drifts too far, a place where cold never loosens its grip.",
+          "Most planets fail the life test for the same reason: they exist outside a narrow window where conditions remain stable."
+        ]
+      },
+      {
+        "paragraphs": [
+          "Scientists call this window the Goldilocks Zone.",
+          "Not too hot. Not too cold. Just right.",
+          "Inside this zone, liquid water can exist, and with it, the chemistry of life."
+        ]
+      },
+      {
+        "heading": "Why Order Matters",
+        "paragraphs": [
+          "Life does not emerge from chaos alone.",
+          "It requires stability, consistency, and boundaries that hold.",
+          "In other words, life needs order."
+        ]
+      }
+    ],
+    "learnings": [
+      "Why most planets fail the life test",
+      "Why order keeps showing up"
+    ],
+    "keyVocabulary": ["stability", "boundaries", "habitable", "consistency"],
+    "secondLens": {
+      "title": "A Second Lens: An Ancient Reflection",
+      "discussionTitle": "Connected Discussion",
+      "discussionParagraphs": [
+        "Long before scientists spoke of habitable zones, Genesis described a different kind of preparation.",
+        "Light separated from darkness. Waters divided. Boundaries established.",
+        "Creation begins not with randomness, but with order."
+      ],
+      "scriptureTitle": "Scripture Text",
+      "scriptureReference": "Genesis 1:3-5 (ESV)",
+      "scriptureVerses": [
+        "And God said, \"Let there be light,\" and there was light.",
+        "And God saw that the light was good. And God separated the light from the darkness.",
+        "God called the light Day, and the darkness he called Night. And there was evening and there was morning, the first day."
+      ]
+    }
+  },
+  {
+    "id": "fear-of-change",
+    "title": "Why We Fear Change More Than Failure",
+    "hook": "Failure hurts. But uncertainty terrifies.",
+    "level": 2,
+    "readingTime": 4,
+    "publishedAt": "2026-02-11",
+    "sections": [
+      {
+        "paragraphs": [
+          "Most people believe they are afraid of failure.",
+          "But often, what we truly fear is something else entirely.",
+          "Not knowing who we will become."
+        ]
+      },
+      {
+        "heading": "The Comfort of the Familiar",
+        "paragraphs": [
+          "Even uncomfortable situations can feel safe when they are predictable.",
+          "Familiar pain feels less threatening than unfamiliar possibility.",
+          "Change destabilizes identity."
+        ]
+      },
+      {
+        "heading": "Why the Mind Resists",
+        "paragraphs": [
+          "Psychologically, change introduces uncertainty.",
+          "Uncertainty activates threat perception.",
+          "The brain prefers known discomfort over unknown outcomes."
+        ]
+      }
+    ],
+    "learnings": [
+      "Why uncertainty feels threatening",
+      "How identity ties to familiar routines"
+    ],
+    "keyVocabulary": ["uncertainty", "identity", "predictable", "perception"],
+    "secondLens": {
+      "title": "A Second Lens: A Story About Letting Go",
+      "discussionTitle": "Connected Discussion",
+      "discussionParagraphs": [
+        "When the Israelites left Egypt, freedom did not immediately feel like relief.",
+        "They longed for the predictability of slavery.",
+        "Sometimes the familiar prison feels safer than the unknown wilderness."
+      ],
+      "scriptureTitle": "Scripture Text",
+      "scriptureReference": "Exodus 16:2-3 (ESV)",
+      "scriptureVerses": [
+        "And the whole congregation of the people of Israel grumbled against Moses and Aaron in the wilderness,",
+        "and the people of Israel said to them, \"Would that we had died by the hand of the LORD in the land of Egypt, when we sat by the meat pots and ate bread to the full,\"",
+        "\"for you have brought us out into this wilderness to kill this whole assembly with hunger.\""
+      ]
+    }
+  },
+  {
+    "id": "self-justification",
+    "title": "The Strange Art of Self-Justification",
+    "hook": "We rarely admit we are wrong, even to ourselves.",
+    "level": 1,
+    "readingTime": 3,
+    "publishedAt": "2026-02-11",
+    "sections": [
+      {
+        "paragraphs": [
+          "Humans possess a remarkable psychological skill.",
+          "We can explain almost anything we do.",
+          "Especially our mistakes."
+        ]
+      },
+      {
+        "heading": "The Mind's Defense Mechanism",
+        "paragraphs": [
+          "Admitting error threatens self-image.",
+          "Self-justification protects identity.",
+          "Rationalization reduces internal tension."
+        ]
+      },
+      {
+        "paragraphs": [
+          "The story we tell ourselves often matters more than the facts themselves."
+        ]
+      }
+    ],
+    "learnings": [
+      "How rationalization protects identity",
+      "Why self-stories can override facts"
+    ],
+    "keyVocabulary": ["rationalization", "tension", "self-image", "admit"],
+    "secondLens": {
+      "title": "A Second Lens: An Ancient Pattern",
+      "discussionTitle": "Connected Discussion",
+      "discussionParagraphs": [
+        "In Genesis, blame appears almost instantly.",
+        "The woman blames the serpent. The man blames the woman.",
+        "Self-justification is older than civilization."
+      ],
+      "scriptureTitle": "Scripture Text",
+      "scriptureReference": "Genesis 3:12-13 (ESV)",
+      "scriptureVerses": [
+        "The man said, \"The woman whom you gave to be with me, she gave me fruit of the tree, and I ate.\"",
+        "Then the LORD God said to the woman, \"What is this that you have done?\"",
+        "The woman said, \"The serpent deceived me, and I ate.\""
+      ]
+    }
+  },
+  {
+    "id": "power-and-identity",
+    "title": "How Power Quietly Changes Identity",
+    "hook": "Power rarely shouts. It reshapes.",
+    "level": 3,
+    "readingTime": 5,
+    "publishedAt": "2026-02-11",
+    "sections": [
+      {
+        "paragraphs": [
+          "Power is often imagined as an external force.",
+          "But its most profound effects are internal.",
+          "It alters perception."
+        ]
+      },
+      {
+        "heading": "The Psychological Drift",
+        "paragraphs": [
+          "Increased authority reduces perceived constraints.",
+          "Empathy may decline.",
+          "Self-perception subtly shifts."
+        ]
+      }
+    ],
+    "learnings": [
+      "How authority can reduce empathy",
+      "Why power amplifies inner patterns"
+    ],
+    "keyVocabulary": ["authority", "empathy", "perception", "constraints"],
+    "secondLens": {
+      "title": "A Second Lens: A King's Transformation",
+      "discussionTitle": "Connected Discussion",
+      "discussionParagraphs": [
+        "Saul began as a hesitant leader.",
+        "Power gradually amplified insecurity.",
+        "Authority often magnifies what already exists within."
+      ],
+      "scriptureTitle": "Scripture Text",
+      "scriptureReference": "1 Samuel 18:8-9 (ESV)",
+      "scriptureVerses": [
+        "And Saul was very angry, and this saying displeased him.",
+        "He said, \"They have ascribed to David ten thousands, and to me they have ascribed thousands, and what more can he have but the kingdom?\"",
+        "And Saul eyed David from that day on."
+      ]
+    }
+  },
+  {
+    "id": "waiting-and-time",
+    "title": "Why Waiting Feels Like Losing",
+    "hook": "Delay feels like denial, but is it?",
+    "level": 2,
+    "readingTime": 4,
+    "publishedAt": "2026-02-11",
+    "sections": [
+      {
+        "paragraphs": [
+          "Waiting is psychologically uncomfortable.",
+          "Progress signals safety.",
+          "Delay signals threat."
+        ]
+      },
+      {
+        "heading": "The Illusion of Stagnation",
+        "paragraphs": [
+          "Visible stillness does not imply absence of movement.",
+          "Growth often occurs invisibly.",
+          "Time is not always wasted when outcomes are delayed."
+        ]
+      }
+    ],
+    "learnings": [
+      "Why delay triggers threat perception",
+      "How invisible growth still compounds"
+    ],
+    "keyVocabulary": ["stagnation", "delay", "invisible", "compounds"],
+    "secondLens": {
+      "title": "A Second Lens: A Repeated Pattern",
+      "discussionTitle": "Connected Discussion",
+      "discussionParagraphs": [
+        "Promises preceded fulfillment by decades.",
+        "Waiting became part of transformation.",
+        "Time reshapes more than circumstances."
+      ],
+      "scriptureTitle": "Scripture Text",
+      "scriptureReference": "Romans 4:20-21 (ESV)",
+      "scriptureVerses": [
+        "No unbelief made him waver concerning the promise of God, but he grew strong in his faith as he gave glory to God,",
+        "fully convinced that God was able to do what he had promised."
+      ]
+    }
+  }
+]
