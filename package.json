@@ -7,8 +7,9 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
+    "build:gh": "pnpm build && node -e \"require('fs').copyFileSync('dist/index.html','dist/404.html')\"",
     "preview": "vite preview",
-    "deploy": "pnpm build && gh-pages -d dist",
+    "deploy": "pnpm build:gh && gh-pages -d dist",
     "cap:sync": "cap sync",
     "cap:copy": "cap copy",
     "cap:open:android": "cap open android",
